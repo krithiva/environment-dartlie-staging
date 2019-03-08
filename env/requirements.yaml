@@ -12,7 +12,7 @@ dependencies:
   version: 0.0.2
 - name: node-http-demo1
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.7
+  version: 0.0.8
 - name: react-testings
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
